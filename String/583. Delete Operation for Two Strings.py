@@ -3,7 +3,7 @@ class Solution(object):
         """
         :type word1: str
         :type word2: str
-        :return_type: int
+        :rtype: int
         """
         n=len(word1)
         m=len(word2)
