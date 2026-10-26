@@ -21,6 +21,7 @@ I solve problems in the following programming language:
 ## Contact
 
 Feel free to connect with me:
+Daily coding practice.
 
 <p>
 
