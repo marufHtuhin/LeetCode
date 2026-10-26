@@ -16,6 +16,9 @@ I solve problems in the following programming language:
 - Sorting
 - Binary Tree
 - Linked List
+- Stack
+- Queue
+- Pointer
 - And more...
 
 ## Contact
