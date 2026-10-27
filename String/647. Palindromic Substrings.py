@@ -13,4 +13,5 @@ class Solution(object):
             i,k=k+1,k+1
             while ~j and k<n and s[k]==s[j]:
                 j,k,ans=j-1,k+1,ans+1
+                
         return ans
