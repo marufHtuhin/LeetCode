@@ -14,4 +14,5 @@ class Solution(object):
             return word
         words=sentence.split()
         replaced=[root(i) for i in words]
+        
         return " ".join(replaced)
